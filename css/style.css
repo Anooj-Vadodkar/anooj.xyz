@@ -16,6 +16,11 @@ h1{
 	color:white;
 	font-family: 'Century Gotchi', sans-serif;
 }
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
 .box-img{
   border-radius: 50%;
   width: 300px;
